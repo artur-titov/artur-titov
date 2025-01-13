@@ -1,7 +1,18 @@
-## Hi there 👋
+👌🏼 Software and DevOps/Platform Engineer specializing in Cloud and On-premise solutions architecture, as well as AI software development.
 
-🫰🏼 As a Software Engineer I specialize in automating the SDLC (Software Development Life Cycle) processes.
+🫰🏼 I specialize in automating the Software Development Life Cycle (SDLC) and business processes.
 
-👍🏼 I also specialize in deploying and maintaining cloud infrastructure and "bare-metal" Kubernetes solutions. 
+#### Skills:
 
-👌🏼 Additionally, I have an experience in the world of development AI based software.
+- Experience with both Cloud and Bare Metal infrastructure.
+- Proficient in coding and scripting languages: Python, Shell, PHP.
+- Operational experience with Linux.
+- Knowledge and experience in Microservices Architecture and Development.
+- Strong leadership skills with experience in Team Management.
+
+#### Summary:
+
+- Excellent communication, problem-solving, and localization skills.
+- Strong planning, time management, and project management abilities.
+- Critical thinker with an open mind and a self-motivated approach.
+- Effective at self-management and self-education.
