@@ -1,4 +1,4 @@
-As a Platform and Software Engineer, I specialize on DevOps practices and automating the software development life cycle.
+👋🏼 As a Platform and Software Engineer, I specialize on DevOps practices and automating the software development life cycle.
 
 #### Skills:
 
