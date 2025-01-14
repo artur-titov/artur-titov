@@ -1,6 +1,4 @@
-👌🏼 Software and DevOps/Platform Engineer specializing in Cloud and On-premise solutions architecture, as well as AI software development.
-
-🫰🏼 I specialize in automating the Software Development Life Cycle (SDLC) and business processes.
+As a Platform and Software Engineer, I specialize on DevOps practices and automating the software development life cycle.
 
 #### Skills:
 
